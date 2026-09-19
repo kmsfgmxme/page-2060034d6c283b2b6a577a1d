@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "179571896f8683eea8aa56e9",
+  "owner": "kmsfgmxme",
+  "repo": "page-2060034d6c283b2b6a577a1d",
+  "title": "clash verge免费节点订阅",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2060034d6c283b2b6a577a1d",
+      "a": "老板娘(CordCloud)",
+      "b": "clash verge免费节点订阅",
+      "entity": "老板娘(CordCloud)",
+      "brand": "clash verge免费节点订阅",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "9ed97365849589f0aee1023a5e61ad76c5d28145a77dc90d8a1d72ee3b063258",
+      "content": {
+        "primary_entity": "老板娘(CordCloud)",
+        "keyword1": "老板娘(CordCloud)",
+        "keyword2": "clash verge免费节点订阅",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，订阅格式多为通用链接或配置文件，导入步骤依客户端文档操作。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "比较套餐权益后，按设备数量与月流量挑一个合适的档位。",
+          "AI_CLOSING_TITLE": "选对套餐",
+          "AI_DESCRIPTION": "，主打多设备同时在线与流媒体、游戏场景的可选线路，套餐从 ¥15/月 的基础版到 ¥85/月 的团队版，分别覆盖 3 台、5 台与 20 台设备。订阅以通用链接或配置文件形式提供，配合 Clash Verge 等客户端导入使用。",
+          "AI_FEATURES_INTRO": "从设备数量、月流量与订阅周期三个角度挑套餐，匹配日常使用强度。",
+          "AI_FEATURES_TITLE": "挑选要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB 支持 3 台设备，旗舰版 300GB 支持 5 台，团队版 1000GB 支持 20 台。",
+          "AI_FEATURE_TEXT_2": "旗舰版含 IPLC 专线游戏加速，团队版提供 VIP 高带宽节点与企业定制路由。",
+          "AI_FEATURE_TEXT_3": "三个套餐均提供按年付选项，年付价格约为月付十个月的费用。",
+          "AI_FEATURE_TITLE_1": "按设备定档",
+          "AI_FEATURE_TITLE_2": "按场景选线",
+          "AI_FEATURE_TITLE_3": "按周期计费",
+          "AI_GUIDE_INTRO": "先确认设备与流量需求，再按客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "老板娘(CordCloud)提供多档订阅套餐，覆盖个人到团队的不同设备规模。基础版适合单人或双设备，旗舰版面向流媒体与游戏需求，团队版服务多设备共享场景。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐，3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "月付或年付自由选择",
+          "AI_HIGHLIGHT_3": "流媒体与游戏线路可选",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月，年付分别为 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与月流量，在基础版、旗舰版、团队版之间选择。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配说明，确认设备数量与线路权益符合需求。",
+          "AI_STEP_TEXT_3": "在客户端中导入订阅链接或配置文件，按客户端文档完成配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "老板娘(CordCloud)订阅套餐",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "如何导入订阅？",
+          "AI_FAQ_ANSWER_1": "在所选客户端中找到订阅或配置导入入口，粘贴购买后获得的订阅链接即可。不同客户端的位置略有差异，可参照对应文档操作。",
+          "AI_FAQ_QUESTION_2": "同时在线设备数量如何计算？",
+          "AI_FAQ_ANSWER_2": "同一时间保持连接并占用节点的设备计入在线数。基础版 3 台，旗舰版 5 台，团队版 20 台。断开连接后不再占用名额。",
+          "AI_FAQ_QUESTION_3": "月付与年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "两种周期提供的套餐权益一致。年付总价约为月付十个月的金额，适合确定长期使用的用户，具体价格以套餐列表为准。",
+          "AI_FAQ_QUESTION_4": "旗舰版适合哪些使用场景？",
+          "AI_FAQ_ANSWER_4": "旗舰版每月 300GB、支持 5 台设备，并提供 IPLC 专线与流媒体解锁，适合有多设备流媒体和游戏加速需求的用户。",
+          "AI_FAQ_QUESTION_5": "团队版可以用于公司吗？",
+          "AI_FAQ_ANSWER_5": "团队版每月 1000GB、支持 20 台设备，含 VIP 节点与企业定制路由选项，适合多人协作或小型办公环境使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "fcec000d18a98e7808241ea0a461cfd0bd22dc7f0b3ac0a27a72e2fa3bf04149",
+    "sitemap.xml": "fa3253a2e6277759895b5bbbd3cc7d51b9dd2e4a287bab43255e3daacedc26f0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "7f30ce8d5266abb5157e1c9164d94bda613f1d80a9b3a6b940d08f9d1528f4ff"
+}
